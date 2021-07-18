@@ -14,3 +14,5 @@ type
                         const sNome: WideString; const sMensagem: WideString; var Continua: WordBool); safecall;
     procedure Fim; safecall;
   end;
+
+02
